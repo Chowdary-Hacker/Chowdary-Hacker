@@ -8,4 +8,5 @@
 Chowdary-Hacker/Chowdary-Hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://faucet.sepolia.dev/
 0xdEd5d780D5a40236894480389fbCD71D1B2a7F35
